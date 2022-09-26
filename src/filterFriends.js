@@ -1,5 +1,5 @@
-const filterFriends = () => {
-  return [];
+const filterFriends = (friends) => {
+  return friends;
 };
 
 module.exports = filterFriends;

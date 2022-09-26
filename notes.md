@@ -18,3 +18,8 @@ Note: keep the original order of the names in the output.
 TODO:
 
 ## Pomodoro 1
+
+🚧 no friends
+TODO: one non friend
+TODO: one friend
+TODO: multiple friends and non-friends

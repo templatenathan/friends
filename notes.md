@@ -19,7 +19,7 @@ TODO:
 
 ## Pomodoro 1
 
-🚧 no friends
-TODO: one non friend
+✅ no friends
+🚧: one non friend
 TODO: one friend
 TODO: multiple friends and non-friends

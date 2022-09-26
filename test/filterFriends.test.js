@@ -11,3 +11,11 @@ describe("when one friend is passed", () => {
     expect(filterFriends(["Ivan"])).toStrictEqual(["Ivan"]);
   });
 });
+
+describe("when both friends and non-friend are passed", () => {
+  it("the return value should have only friends", () => {
+    expect(
+      filterFriends(["Ivan", "Kate", "Betty", "Boat", "Peter"])
+    ).toStrictEqual(["Ivan", "Kate", "Boat"]);
+  });
+});
